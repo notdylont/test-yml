@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://notdylont.github.io/test.yml",
+  "homepage": "https://notdylont.github.io/test-yml",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
